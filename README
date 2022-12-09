@@ -1,0 +1,37 @@
+# SetUp Reactores
+
+## Contrato Deployado y Verificado 
+
+- `Goerli Testnet` - [0xB8F082609C97FbD554c0E3B26697ecEcdFEc6e12](https://goerli.etherscan.io/address/0xB8F082609C97FbD554c0E3B26697ecEcdFEc6e12#code)
+
+## Tecnologias utilizadas:
+
+- RainbowKit: [Rainbow Kit](https://www.rainbowkit.com/).
+- Web Framework: [Next JS (create-next-app)](https://nextjs.org/docs/api-reference/create-next-app).
+- React Component Library: [material-ui (mui)](https://mui.com/)
+
+## Preparando para Inicio
+
+Then, run the development server:
+
+```bash
+npm install
+npm run build
+npm run start
+# o sino
+yarn install
+yarn build
+yarn start
+```
+
+Abrir el [http://localhost:3000](http://localhost:3000) del explorador.
+
+
+## Mas info
+
+Para leer mas acerca de Next.js, mirar los siguientes recursos:
+
+- [Next.js Documentation](https://nextjs.org/docs) - obtener información sobre las funciones y la API de Next.js
+- [Learn Next.js](https://nextjs.org/learn) - un tutorial interactivo de Next.js.
+
+
